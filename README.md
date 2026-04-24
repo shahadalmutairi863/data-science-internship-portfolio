@@ -49,8 +49,14 @@ Looker Studio | Excel | PowerPoint | Canva
 ---
 
 ## 🔄 Data Pipeline Architecture
-*(Add diagram here if needed)*
 
+```mermaid
+flowchart LR
+A[📥 Raw Data<br>SRCA Platform] --> B[🧹 Data Cleaning<br>Python]
+B --> C[⚙️ Feature Engineering]
+C --> D[📊 Aggregation<br>groupby]
+D --> E[☁️ Google Sheets<br>Live Database]
+E --> F[📈 Dashboard<br>Looker Studio]
 ---
 
 ## 📊 Key Features
