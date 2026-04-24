@@ -1,6 +1,7 @@
 # data-science-internship-portfolio
 ```markdown
 # 🚑 Data Science Internship Portfolio – SRCA
+```
 Data Science internship at SRCA building an automated data pipeline and real-time dashboard for decision-making.
 A high-impact Data Science portfolio documenting a full 220-hour internship at the Saudi Red Crescent Authority (SRCA), where data was transformed into a real-time decision-making system.
 
