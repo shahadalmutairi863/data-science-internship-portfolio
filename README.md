@@ -213,11 +213,18 @@ Received an official recommendation letter recognizing:
 - Contribution to real-time reporting system  
 
 ---
+
 🚀 Live Interactive Dashboard (Looker Studio)  
 📊 [View Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
-📄 Recommendation Letter → [View](Reports/recommendation_letter.pdf)  
-📊 Final Report → [View](Reports/final_report.pdf)  
-📓 Jupyter Notebook → [View](notebooks/srca_pipeline.ipynb)
+
+📄 Recommendation Letter  
+📎 [View Letter](Reports/recommendation_letter.pdf)
+
+📊 Final Report  
+📎 [View Report](Reports/final_report.pdf)
+
+📓 Jupyter Notebook  
+📒 [View Notebook](notebooks/srca_pipeline.ipynb)
 ---
 
 ## 📁 Project Structure
