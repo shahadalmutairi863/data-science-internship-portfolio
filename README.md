@@ -42,63 +42,96 @@ Looker Studio | Excel | PowerPoint | Canva
 ---
 
 ## 🔄 Data Pipeline Architecture
+*(Add diagram here if needed)*
+
+---
+
+## 📊 Key Features
+
+### 🧹 Data Engineering
+- Automated cleaning (missing values, formatting issues)  
+- Data validation & integrity checks  
+- Feature engineering (Total Volunteers, KPIs)  
+
+### 📈 Reporting Automation
+- Weekly reports generated automatically  
+- KPI calculations:
+  - Total Volunteers  
+  - Volunteering Hours  
+  - Beneficiaries  
+  - Economic Value (SAR)  
+
+### 📊 Business Intelligence Dashboard
+- Real-time updates  
+- Interactive filters (city / time)  
+- KPI scorecards  
+- Map visualization + charts  
+
+### 🗂️ Operational Impact
+- Volunteer scheduling (24/7 coverage)  
+- Regional performance tracking  
+- Strategic planning support  
+
+---
+
+## 📈 Results & Impact
+
+| Metric | Impact |
+|--------|--------|
+| ⏱️ Reporting Time | ↓ 80% |
+| ✅ Data Accuracy | 100% |
+| 👥 Volunteers Analyzed | 1000+ |
+| 💰 Economic Value | 500K+ SAR |
+| 🌍 Coverage | Makkah Region |
+
+---
+
+## 🧠 What Makes This Project Strong
+- Real-world production-level data pipeline  
+- Combines Data Engineering + BI + Operations  
+- Built for decision-makers, not just analysis  
+- Clear business impact (time, cost, efficiency)  
+
+---
+
+## 🧩 My Role
+
+### 🎯 Responsibilities
+- Built the end-to-end pipeline  
+- Automated reporting using Python  
+- Developed BI dashboard  
+- Ensured data quality & validation  
+- Translated data → executive insights  
+
+### 🚀 Impact
+Delivered a scalable analytics system that:
+- Eliminated manual reporting  
+- Enabled real-time decision-making  
+- Improved operational efficiency significantly  
+
+---
+
+## 📁 Project Structure
+```bash
+data-science-internship/
+├── README.md
+├── notebooks/
+│   ├── data_cleaning.ipynb
+│   ├── aggregation.ipynb
+│   └── automation_pipeline.ipynb
+├── reports/
+│   └── final_report.pdf
+├── presentation/
+│   └── final_presentation.pptx
+
+---
+
+## 🔄 Data Pipeline Architecture
 
 ```mermaid
 flowchart LR
 A[📥 Raw Data<br>SRCA Platform] --> B[🧹 Data Cleaning<br>Python]
 B --> C[⚙️ Feature Engineering]
 C --> D[📊 Aggregation<br>groupby]
-D --> E[☁️ Google Sheets<br>Live DB]
+D --> E[☁️ Google Sheets<br>Live Database]
 E --> F[📈 Dashboard<br>Looker Studio]
-
-
----
-
-##📊 Key Features
-🧹 Data Engineering
-Data cleaning (missing values, duplicates, formatting issues)
-Data validation and quality checks
-Feature engineering for KPIs
-⚙️ Data Processing
-Aggregation using groupby
-Transforming raw data into analytics-ready format
-📈 Reporting Automation
-Automated KPI calculations:
-Total Volunteers
-Total Hours
-Beneficiaries
-Economic Value (SAR)
-Real-time reporting system
-📊 BI Dashboard
-Built with Looker Studio
-Connected to Google Sheets (live data)
-Interactive filters (city, date, category)
-KPI scorecards, charts, and maps
-🗂️ Operational Impact
-Faster reporting cycles
-Reduced manual effort
-Improved decision-making visibility
-Regional performance tracking
-📈 Results & Impact
-Metric	Improvement
-⏱️ Reporting Time	↓ 80%
-📊 Data Accuracy	100%
-👥 Records Processed	1000+
-💰 Economic Value	500K+ SAR
-🌍 Coverage	Makkah Region
-🧠 Project Highlights
-End-to-end data pipeline (raw → insights → dashboard)
-Real-time automated analytics system
-Integration of Data Engineering + BI + Operations
-Built for decision-making, not just analysis
-Scalable architecture for future expansion
-👩‍💻 My Role
-Designed full data pipeline architecture
-Built Python scripts for cleaning and processing
-Developed KPI logic and aggregations
-Connected pipeline to Google Sheets (live DB)
-Built dashboard in Looker Studio
-Translated data into actionable insights
-🚀 Outcome
-
-This project transformed a manual reporting system into a fully automated real-time data ecosystem, enabling faster and smarter decision-making at SRCA.
