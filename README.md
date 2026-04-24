@@ -133,7 +133,7 @@ Received an official recommendation letter recognizing:
 ---
 
 ## 🔗 Dashboard
-*(<img width="512" height="385" alt="اللوحة" src="https://github.com/user-attachments/assets/c3287b9d-70ea-4051-b143-5666c394316b" />
+*<img width="512" height="385" alt="اللوحة" src="https://github.com/user-attachments/assets/c3287b9d-70ea-4051-b143-5666c394316b" />
 *
 
 ---
