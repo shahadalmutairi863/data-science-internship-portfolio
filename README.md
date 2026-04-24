@@ -212,8 +212,8 @@ Received an official recommendation letter recognizing:
 ---
 
 ## 🔗 Dashboard
-*<img width="512" height="385" alt="اللوحة" src="https://github.com/user-attachments/assets/c3287b9d-70ea-4051-b143-5666c394316b" />
-*
+🚀 Live Interactive Dashboard (Looker Studio)  
+📊 [Explore Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
 
 ---
 
