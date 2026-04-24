@@ -212,9 +212,12 @@ Received an official recommendation letter recognizing:
 - Ability to build scalable data pipelines  
 - Contribution to real-time reporting system  
 
-📎 [View Recommendation Letter](Reports/recommendation_letter.pdf)
 ---
-
+🚀 Live Interactive Dashboard (Looker Studio)  
+📊 [View Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
+📄 Recommendation Letter → [View](Reports/recommendation_letter.pdf)  
+📊 Final Report → [View](Reports/final_report.pdf)  
+📓 Jupyter Notebook → [View](notebooks/srca_pipeline.ipynb)
 ---
 
 ## 📁 Project Structure
