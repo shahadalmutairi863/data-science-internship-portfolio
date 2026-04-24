@@ -39,10 +39,16 @@ This portfolio captures a real-world transformation inside a humanitarian organi
 Python (Pandas) | Google Colab | Google Sheets API  
 Looker Studio | Excel | PowerPoint | Canva  
 
----
-
+```md
 ## 🔄 Data Pipeline Architecture
-*(Add diagram here if needed)*
+
+```mermaid
+flowchart LR
+A[📥 Raw Data<br>SRCA Platform] --> B[🧹 Data Cleaning<br>Python]
+B --> C[⚙️ Feature Engineering]
+C --> D[📊 Aggregation<br>groupby]
+D --> E[☁️ Google Sheets<br>Live DB]
+E --> F[📈 Dashboard<br>Looker Studio]
 
 ---
 
