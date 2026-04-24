@@ -203,7 +203,7 @@ Delivered a scalable analytics system that:
 
   ## 🔗 Dashboard
 🚀 Live Interactive Dashboard (Looker Studio)  
-📊 [Explore Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
+📊 [View Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
 ---
 ## 📄 Letter of Recommendation
 
