@@ -51,8 +51,6 @@ C --> D[📊 Aggregation<br>groupby]
 D --> E[☁️ Google Sheets<br>Live DB]
 E --> F[📈 Dashboard<br>Looker Studio]
 
----
-
 ## 📊 Key Features
 
 ### 🧹 Data Engineering
