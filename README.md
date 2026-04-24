@@ -1,6 +1,6 @@
 # 🚑 Data Science Internship Portfolio – SRCA
 دد
-```
+
 Data Science internship at SRCA building an automated data pipeline and real-time dashboard for decision-making.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
