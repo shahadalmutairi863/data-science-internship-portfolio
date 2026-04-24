@@ -222,7 +222,7 @@ Received an official recommendation letter recognizing:
 📓 Jupyter Notebook  
 📒 [View Notebook](notebooks/srca_pipeline.ipynb)
 
-📄 [View Presentation](final_presentation..pdf)
+📄 [View Presentation](presentation/final_presentation..pdf)
 
 ---
 
