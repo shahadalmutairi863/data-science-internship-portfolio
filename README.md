@@ -2,7 +2,14 @@
 Data Science internship at SRCA building an automated data pipeline and real-time dashboard for decision-making.
 A high-impact Data Science portfolio documenting a full 220-hour internship at the Saudi Red Crescent Authority (SRCA), where data was transformed into a real-time decision-making system.
 
-# 🚑 Data Science Internship Portfolio – SRCA 
+# 🚑 Data Science Internship Portfolio – SRCA
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Pipeline-green)
+![Automation](https://img.shields.io/badge/Automation-Workflow-red)
+![BI](https://img.shields.io/badge/BI-Looker%20Studio-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
 A high-impact Data Science portfolio documenting a full 220-hour internship at the Saudi Red Crescent Authority (SRCA), where data was transformed into a real-time decision-making system.
 
@@ -123,15 +130,3 @@ data-science-internship/
 │   └── final_report.pdf
 ├── presentation/
 │   └── final_presentation.pptx
-
----
-
-## 🔄 Data Pipeline Architecture
-
-```mermaid
-flowchart LR
-A[📥 Raw Data<br>SRCA Platform] --> B[🧹 Data Cleaning<br>Python]
-B --> C[⚙️ Feature Engineering]
-C --> D[📊 Aggregation<br>groupby]
-D --> E[☁️ Google Sheets<br>Live Database]
-E --> F[📈 Dashboard<br>Looker Studio]
