@@ -50,3 +50,55 @@ B --> C[⚙️ Feature Engineering]
 C --> D[📊 Aggregation<br>groupby]
 D --> E[☁️ Google Sheets<br>Live DB]
 E --> F[📈 Dashboard<br>Looker Studio]
+
+
+---
+
+##📊 Key Features
+🧹 Data Engineering
+Data cleaning (missing values, duplicates, formatting issues)
+Data validation and quality checks
+Feature engineering for KPIs
+⚙️ Data Processing
+Aggregation using groupby
+Transforming raw data into analytics-ready format
+📈 Reporting Automation
+Automated KPI calculations:
+Total Volunteers
+Total Hours
+Beneficiaries
+Economic Value (SAR)
+Real-time reporting system
+📊 BI Dashboard
+Built with Looker Studio
+Connected to Google Sheets (live data)
+Interactive filters (city, date, category)
+KPI scorecards, charts, and maps
+🗂️ Operational Impact
+Faster reporting cycles
+Reduced manual effort
+Improved decision-making visibility
+Regional performance tracking
+📈 Results & Impact
+Metric	Improvement
+⏱️ Reporting Time	↓ 80%
+📊 Data Accuracy	100%
+👥 Records Processed	1000+
+💰 Economic Value	500K+ SAR
+🌍 Coverage	Makkah Region
+🧠 Project Highlights
+End-to-end data pipeline (raw → insights → dashboard)
+Real-time automated analytics system
+Integration of Data Engineering + BI + Operations
+Built for decision-making, not just analysis
+Scalable architecture for future expansion
+👩‍💻 My Role
+Designed full data pipeline architecture
+Built Python scripts for cleaning and processing
+Developed KPI logic and aggregations
+Connected pipeline to Google Sheets (live DB)
+Built dashboard in Looker Studio
+Translated data into actionable insights
+🚀 Outcome
+
+This project transformed a manual reporting system into a fully automated real-time data ecosystem, enabling faster and smarter decision-making at SRCA.
