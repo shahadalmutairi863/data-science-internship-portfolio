@@ -222,6 +222,8 @@ Received an official recommendation letter recognizing:
 📓 Jupyter Notebook  
 📒 [View Notebook](notebooks/srca_pipeline.ipynb)
 
+📄 [Download Presentation](final_presentation.pdf)
+
 ---
 
 ## 📁 Project Structure
