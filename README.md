@@ -133,7 +133,8 @@ Received an official recommendation letter recognizing:
 ---
 
 ## 🔗 Dashboard
-*(Add your Looker Studio link or screenshots here)*
+*(<img width="512" height="385" alt="اللوحة" src="https://github.com/user-attachments/assets/c3287b9d-70ea-4051-b143-5666c394316b" />
+*
 
 ---
 
