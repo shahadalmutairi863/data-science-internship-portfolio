@@ -198,8 +198,12 @@ Unlike static analysis projects, this system demonstrates the ability to:
 Delivered a scalable analytics system that:
 - Eliminated manual reporting  
 - Enabled real-time decision-making  
-- Improved operational efficiency significantly  
+- Improved operational efficiency significantly
+  
 
+  ## 🔗 Dashboard
+🚀 Live Interactive Dashboard (Looker Studio)  
+📊 [Explore Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
 ---
 ## 📄 Letter of Recommendation
 
@@ -210,10 +214,6 @@ Received an official recommendation letter recognizing:
 
 📎 [View Recommendation Letter](Reports/recommendation_letter.pdf)
 ---
-
-## 🔗 Dashboard
-🚀 Live Interactive Dashboard (Looker Studio)  
-📊 [Explore Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
 
 ---
 
