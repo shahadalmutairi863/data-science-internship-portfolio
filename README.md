@@ -200,10 +200,6 @@ Delivered a scalable analytics system that:
 - Enabled real-time decision-making  
 - Improved operational efficiency significantly
   
-
-  ## 🔗 Dashboard
-🚀 Live Interactive Dashboard (Looker Studio)  
-📊 [View Dashboard](https://lookerstudio.google.com/reporting/ba46cd98-5075-4f3b-a0d9-549fe794f15e)
 ---
 ## 📄 Letter of Recommendation
 
