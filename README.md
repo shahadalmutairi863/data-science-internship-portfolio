@@ -131,14 +131,15 @@ Received an official recommendation letter recognizing:
 
 📎 [View Recommendation Letter](reports/recommendation_letter.pdf)
 
+## 📁 Project Structure
+```bash 
 data-science-internship/
 ├── README.md
 ├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── aggregation.ipynb
-│   └── automation_pipeline.ipynb
-├── reports/
-│   ├── final_report.pdf
-│   └── recommendation_letter.pdf
+│ ├── data_cleaning.ipynb
+│ ├── aggregation.ipynb │
+└── automation_pipeline.ipynb
+├── reports/ 
+│ └── final_report.pdf
 ├── presentation/
-│   └── final_presentation.pptx
+│ └── final_presentation.pptx
