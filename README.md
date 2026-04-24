@@ -208,7 +208,7 @@ Received an official recommendation letter recognizing:
 - Ability to build scalable data pipelines  
 - Contribution to real-time reporting system  
 
-📎 [View Recommendation Letter](reports/recommendation_letter.pdf)
+📎 [View Recommendation Letter](Reports/recommendation_letter.pdf)
 ---
 
 ## 🔗 Dashboard
