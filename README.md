@@ -122,9 +122,15 @@ Delivered a scalable analytics system that:
 - Improved operational efficiency significantly  
 
 ---
+## 📄 Letter of Recommendation
 
-## 📁 Project Structure
-```bash
+Received an official recommendation letter recognizing:
+- Strong performance in data engineering & automation  
+- Ability to build scalable data pipelines  
+- Contribution to real-time reporting system  
+
+📎 [View Recommendation Letter](reports/recommendation_letter.pdf)
+
 data-science-internship/
 ├── README.md
 ├── notebooks/
@@ -132,6 +138,7 @@ data-science-internship/
 │   ├── aggregation.ipynb
 │   └── automation_pipeline.ipynb
 ├── reports/
-│   └── final_report.pdf
+│   ├── final_report.pdf
+│   └── recommendation_letter.pdf
 ├── presentation/
 │   └── final_presentation.pptx
