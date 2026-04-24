@@ -57,10 +57,10 @@ B --> C[⚙️ Feature Engineering]
 C --> D[📊 Aggregation<br>groupby]
 D --> E[☁️ Google Sheets<br>Live Database]
 E --> F[📈 Dashboard<br>Looker Studio]
+---
 
 
-
- 📊 Key Features
+##📊 Key Features
 
 ### 🧹 Data Engineering
 - Automated cleaning (missing values, formatting issues)  
