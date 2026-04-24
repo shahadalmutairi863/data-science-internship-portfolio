@@ -41,7 +41,6 @@ Looker Studio | Excel | PowerPoint | Canva
 
 ---
 
-## ```md
 ## 🔄 Data Pipeline Architecture
 
 ```mermaid
