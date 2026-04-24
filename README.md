@@ -141,5 +141,6 @@ data-science-internship/
 └── automation_pipeline.ipynb
 ├── reports/ 
 │ └── final_report.pdf
+│ └── recommendation_letter.pdf
 ├── presentation/
 │ └── final_presentation.pptx
