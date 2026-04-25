@@ -7,7 +7,7 @@
 ![BI](https://img.shields.io/badge/BI-Looker%20Studio-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-A high-impact Data Science portfolio showcasing a real-world internship at the Saudi Red Crescent Authority (SRCA), where raw operational data was transformed into an automated, real-time decision-support system to enhance efficiency, accuracy, and data-driven emergency response.
+A high-impact Data Science project showcasing a real-world internship at the Saudi Red Crescent Authority (SRCA), where raw operational data was transformed into an automated, real-time decision-support system to enhance efficiency, accuracy, and data-driven emergency response.
 
 > 🚀 Transition from manual Excel-based reporting → to an automated data pipeline & live BI dashboard ecosystem
 
